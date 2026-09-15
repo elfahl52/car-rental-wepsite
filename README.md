@@ -26,6 +26,10 @@ Currently, two official plugins are available:
 
 ![Car Rental Website preview](public/banner-car.png)
 
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-wepsite.vercel.app/)
+
 ## Built With
 
 <p>
